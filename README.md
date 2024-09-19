@@ -8,8 +8,8 @@ Named Entity Recognition (NER)
 Sentiment Analysis
 Abuse Detection
 
-📚 Tech Stack:
 
+📚 Tech Stack:
 Python
 Flask (for the backend)
 HTML/CSS (basic front-end)
